@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.pukpukov</groupId>
+  <artifactId>AncapDatabase</artifactId>
+  <versioning>
+    <release>1.0-alpha</release>
+    <versions>
+      <version>1.0-alpha</version>
+    </versions>
+    <lastUpdated>20220211012636</lastUpdated>
+  </versioning>
+</metadata>
