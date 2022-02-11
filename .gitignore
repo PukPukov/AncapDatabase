@@ -1,3 +1,4 @@
-/targer/
+# Default ignored files
+/target/
 /.idea/
 /AncapDatabase.iml

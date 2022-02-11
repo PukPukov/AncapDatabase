@@ -1,6 +1,0 @@
-Database\Databases\DirectoryDB.class
-Database\Databases\BukkitConfigDatabase.class
-Database\Database.class
-Database\Exception\ANRDBException.class
-Main\Main.class
-Database\Databases\JSONDatabase.class
