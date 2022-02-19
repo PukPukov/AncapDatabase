@@ -3,10 +3,10 @@
   <groupId>ru.pukpukov</groupId>
   <artifactId>AncapDatabase</artifactId>
   <versioning>
-    <release>alpha-1.0.0.1</release>
+    <release>alpha.1.0.0.1</release>
     <versions>
-      <version>alpha-1.0.0.1</version>
+      <version>alpha.1.0.0.1</version>
     </versions>
-    <lastUpdated>20220219122643</lastUpdated>
+    <lastUpdated>20220219130054</lastUpdated>
   </versioning>
 </metadata>
