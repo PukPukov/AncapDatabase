@@ -27,8 +27,12 @@ public class BukkitConfigDatabase implements Database {
     }
 
     private void createDatabaseFile(String fileName) {
-        File file = new File(Main.getInstance().getDataFolder(), fileName);
-        this.createFile(file);
+        this.prepareDataFolder();
+        this.createFile(new File(Main.getInstance().getDataFolder(), fileName));
+    }
+
+    private void prepareDataFolder() {
+        Main.getInstance().getDataFolder().mkdirs();
     }
 
     private void createFile(File file) {
