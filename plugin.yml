@@ -1,0 +1,3 @@
+main: Database.Main.Main
+version: 1.0-alpha
+name: AncapDatabase
