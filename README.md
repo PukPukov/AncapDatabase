@@ -4,14 +4,16 @@
 API для работы с базами данных на Bukkit. 
 
 ## Использование с помощью Maven
-     <repository>  
-	     <id>AncapDatabase-mvn-repo</id>  
-	     <url>https://raw.github.com/PukPukov/AncapDatabase/mvn-repo/</url>  
-	     <snapshots> 
-		     <enabled>true</enabled>  
-		     <updatePolicy>always</updatePolicy>  
-	     </snapshots>
-     </repository>
+     </repositories>
+	     <repository>  
+		     <id>AncapDatabase-mvn-repo</id>  
+		     <url>https://raw.github.com/PukPukov/AncapDatabase/mvn-repo/</url>  
+		     <snapshots> 
+			     <enabled>true</enabled>  
+			     <updatePolicy>always</updatePolicy>  
+		     </snapshots>
+	     </repository>
+     </repositories>
      
      <dependencies>  
 	     <dependency> 
