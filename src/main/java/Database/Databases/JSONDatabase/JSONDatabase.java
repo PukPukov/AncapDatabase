@@ -1,11 +1,23 @@
-package Database.Databases;
+package Database.Databases.JSONDatabase;
 
 import Database.Database;
+
+import java.util.List;
 
 public class JSONDatabase implements Database {
 
     @Override
+    public void save() {
+
+    }
+
+    @Override
     public void write(String path, Object value) {
+    }
+
+    @Override
+    public void writeNoSave(String path, Object value) {
+
     }
 
     @Override
@@ -14,8 +26,8 @@ public class JSONDatabase implements Database {
     }
 
     @Override
-    public String[] getStrings(String path) {
-        return new String[0];
+    public List<String> getStrings(String path) {
+        return null;
     }
 
     @Override

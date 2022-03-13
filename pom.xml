@@ -6,7 +6,7 @@
 
     <groupId>ru.pukpukov</groupId>
     <artifactId>AncapDatabase</artifactId>
-    <version>alpha-1.0.0.1</version>
+    <version>alpha.1.0.2</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
